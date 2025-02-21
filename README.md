@@ -25,3 +25,5 @@ Sales data: The primary dataset used for this analysis is the â€œSales_data.csvâ
   2 Handling missing values
   
   3 Data cleaning and formating
+
+### Exploratory Data Analysis
